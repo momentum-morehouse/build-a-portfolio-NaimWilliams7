@@ -1,0 +1,18 @@
+html {
+    background-color: #cef106;
+  }
+
+  body {
+    width: 600px;
+    margin: 50px auto;
+    background-color: #cef106;
+    padding: 10px 10px 130px 25px;
+    border: 10px solid black 
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #0e0e0f;
+    text-shadow: 3px 3px 1px black;
+  }
